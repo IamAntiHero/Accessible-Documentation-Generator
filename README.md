@@ -6,8 +6,6 @@ AccessDocs is a documentation generator focused on creating highly accessible do
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IamAntiHero/Accessible-Documentation-Generator)
 
-new
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IamAntiHero/Accessible-Documentation-Generator)
 
 ## Features
 
